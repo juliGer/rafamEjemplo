@@ -1,1 +1,1 @@
-console("modificamos el js")
+console.log("modificamos el js")
